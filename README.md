@@ -8,19 +8,14 @@ I enjoy building projects from scratch, understanding how frontend and backend c
 I’m especially interested in full-stack development, backend systems, and writing clean, maintainable code.
 I believe in learning by building, breaking, and improving projects continuously.
 
-###  Skills & Technologies
+🔥 Skills I'm Growing
+# API Development & Integration
+# Advanced Frontend with React
+# Scalable Backend Systems
+# Databases and Cloud Deployments
 
-**Web Development:**  
-HTML, CSS, JavaScript, React.js, Node.js, Express.js
+## 🤝 Let’s Connect
 
- **Databases:**  
-MySQL, MongoDB
-
- **Programming Languages:**  
-C++, Python, Java
-
-### 📚 Currently Learning
-I'm currently focusing on:
-- Backend system design
-- Full-stack development
-- Building scalable real-world applications
+📧 **Email:** abhiiikr1032@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/abhishek1032  
+🌐 **Portfolio:** abhiiportfolioo.netlify.app
