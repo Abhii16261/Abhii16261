@@ -1,4 +1,5 @@
-🚀
+👋 Hey I’m Abhishek Kumar
+
 # Passionate Fresher | Aspiring Software Developer
 
 I’m a Computer Science fresher who loves turning ideas into working web applications.
