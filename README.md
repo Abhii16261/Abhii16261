@@ -9,10 +9,12 @@ I’m especially interested in full-stack development, backend systems, and writ
 I believe in learning by building, breaking, and improving projects continuously.
 
 🔥 Skills I'm Growing
+
 #API Development & Integration
 #Advanced Frontend with React
 #Scalable Backend Systems
 #Databases and Cloud Deployments
+
 
 
 ## 🌐 Socials:
